@@ -12,6 +12,8 @@ Plataforma que evita o desperdício de alimentos no comércio de bairro, pelo Wh
 5. A ONG confirma com foto e o doador vê o impacto.
 
 ## Protótipo
-Figma: COLE AQUI O LINK DO FIGMA
+Figma: [Abrir o protótipo interativo](https://www.figma.com/proto/5YA3efqRZz1Dv27kyjaWNs/Mais-Aproveitamento-Hackathon?node-id=2-7122&page-id=0%3A1&starting-point-node-id=2%3A7122)
+
+Arquivo editável: [baixar o projeto do Figma](./Mais%20Aproveitamento%20%E2%80%94%20Hackathon.fig). Importe o arquivo .fig no Figma para abrir e editar.
 
 Hackathon LAB.AI 2026 · Instituto Joule
