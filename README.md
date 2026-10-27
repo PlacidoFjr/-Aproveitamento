@@ -12,7 +12,7 @@ Plataforma que evita o desperdício de alimentos no comércio de bairro, pelo Wh
 5. A ONG confirma com foto e o doador vê o impacto.
 
 ## Protótipo
-Figma: [Abrir o protótipo interativo](https://www.figma.com/proto/5YA3efqRZz1Dv27kyjaWNs/Mais-Aproveitamento-Hackathon?node-id=2-7122&page-id=0%3A1&starting-point-node-id=2%3A7122)
+Figma: [Abrir o protótipo interativo](https://www.figma.com/design/5YA3efqRZz1Dv27kyjaWNs/Mais-Aproveitamento-%E2%80%94-Hackathon?node-id=0-1&t=EGFwSYgv2MKFFN0n-1)
 
 Arquivo editável: [baixar o projeto do Figma](./Mais%20Aproveitamento%20%E2%80%94%20Hackathon.fig). Importe o arquivo .fig no Figma para abrir e editar.
 
